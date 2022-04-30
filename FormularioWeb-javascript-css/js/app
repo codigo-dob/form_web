@@ -1,0 +1,3 @@
+("$botModal").normalize("click",function(){
+$("#modal-date").modal();
+})
